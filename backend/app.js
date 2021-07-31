@@ -17,13 +17,13 @@ const Data = [
   },
   {
     id: 2,
-    name: "José Muñoz",
+    name: "Prueba Gonzalez",
     age: 34,
     status: "active",
   },
   {
     id: 3,
-    name: "Iván Betegón",
+    name: "Test Rodriguez",
     age: 28,
     status: "active",
   },
